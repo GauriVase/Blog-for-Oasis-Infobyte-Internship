@@ -1,7 +1,5 @@
 # Blog-for-Oasis-Infobyte-Internship
-
-[WhatsApp Image 2024-06-19 at 23 37 00_299fba47](https://github.com/GauriVase/Blog-for-Oasis-Infobyte-Internship/assets/171481955/1ba2c0b2-9a92-460e-b2ad-8e3adfc09c04)
-
+https://i.im.ge/2024/06/20/KzpN2y.Screenshot-20240619-230540-LinkedIn.jpeg
 
 Hello everyone!
 Writing this blog to share my experience in the Oasis Data Analytics internship.
